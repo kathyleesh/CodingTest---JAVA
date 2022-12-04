@@ -3,10 +3,10 @@ package KM;
 import java.util.ArrayList;
 import java.util.List;
 
-public class Solution {
+public class KM_2022_1 {
     public static void main(String[] args) {
 
-        Solution ex = new Solution();
+        KM_2022_1 ex = new KM_2022_1();
         int flowers[][] = {{2, 5}, {3, 7}, {10, 11}};
 
         ex.solution(flowers);
