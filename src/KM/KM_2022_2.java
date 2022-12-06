@@ -3,10 +3,10 @@ package KM;
 import java.util.*;
 import java.util.stream.Collectors;
 
-public class Solution {
+public class KM_2022_2 {
 
     public static void main(String[] args) {
-        Solution ex = new Solution();
+        KM_2022_2 ex = new KM_2022_2();
         String id_list[] = {"JAY", "JAY ELLE JAY MAY", "MAY ELLE MAY", "ELLE MAY", "ELLE ELLE ELLE", "MAY"};
         int k = 3;
         ex.solution(id_list, k);
