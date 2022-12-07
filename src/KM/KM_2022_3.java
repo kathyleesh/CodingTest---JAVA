@@ -6,10 +6,10 @@ import java.util.List;
 import java.util.Objects;
 import java.util.stream.Collectors;
 
-public class Solution {
+public class KM_2022_3 {
 
     public static void main(String[] args) {
-        Solution ex = new Solution();
+        KM_2022_3 ex = new KM_2022_3();
 
         String s = "2021:04:12:16:08:35";
         String[] times = {"01:06:30:00", "00:01:12:00"};
