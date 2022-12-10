@@ -3,9 +3,9 @@ package PG.Lv0;
 import java.util.ArrayList;
 import java.util.List;
 
-public class Solution {
+public class PG_평행 {
     public static void main(String[] args) {
-        Solution ex = new Solution();
+        PG_평행 ex = new PG_평행();
         int dots[][] = {{1, 1}, {5, 1}, {1, 10}, {3, 10}};
 
         ex.solution(dots);
